@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rama garlapati
 - 👀 I’m interested in the world of data,webdevelopment
-- 🌱 I’m currently learning SQL,Python
+- 🌱 I’m currently leveling up SQL,Python 
 - 💞️ I’m looking to collaborate on SQL,Python
 - 📫 reach me via email
 
