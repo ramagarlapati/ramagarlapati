@@ -3,9 +3,9 @@
 
 
 - 👋 Hi, I’m @rama garlapati
-- 👀 I’m interested in the world of data,webdevelopment and backend framewroks
-- 🌱 I’m currently leveling up SQL,Python 
-- 💞️ I’m looking to collaborate on SQL,Python
+- 👀 I’m interested in the world of data,ML, analytic, webdevelopment and backend developments open source framewroks
+- 🌱 I’m currently leveling up ML 
+- 💞️ I’m looking to collaborate LLM,ML & DevOps
 - 📫 reach me via email
 
 
